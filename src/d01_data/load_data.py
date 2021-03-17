@@ -2,9 +2,10 @@ import csv
 import pandas as pd
 import sys
 
-
+#search files
 sys.path.insert(0, "/home/apprenant/Desktop/AmericanDream/")
 
+#import mysql and save ma data in variable
 from src.d00_utils.mysql_utils import mysql_connect, save_to_mysql
 
 data = pd.read_csv('/home/apprenant/Desktop/AmericanDream/Data/01_raw/DataAnalyst.csv')
