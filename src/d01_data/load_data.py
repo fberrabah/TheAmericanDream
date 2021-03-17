@@ -15,4 +15,4 @@ connect = mysql_connect()
 save_to_mysql(db_connect=connect,df_to_save=data,df_name='Analyst')
 save_to_mysql(db_connect=connect,df_to_save=data2,df_name='Salary')
 
-    
+        
