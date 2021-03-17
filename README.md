@@ -13,7 +13,8 @@ Ce que vous devez réaliser:
 * créer votre structure de projet à partir de la proposition de template
 
 * Créer votre environnement virtuel
-* ++II Data cleaning++
+  
+++II Data cleaning++
 
 * Télécharger et importez vos données dans un moteur de base de données (au choix) (d01_data)
 
@@ -23,17 +24,17 @@ Ce que vous devez réaliser:
 
 * Rechercher s'il y a des colonnes qu'il faudrait transformer en datetime (d02_intermediate)
 
-*Vérifier la consistence des données (d02_intermediate)
+* Vérifier la consistence des données (d02_intermediate)
 
-*Rechercher les valeurs abbérantes et les traiter (d02_intermediate)
+* Rechercher les valeurs abbérantes et les traiter (d02_intermediate)
 
 ++III Data visualisation (Carreer_visualization.ipynb)++
 
 Pour les travailleurs de la data aux Etats Unis donnez:
 
-*le salaire moyen, le salaire median, et représentez les dix déciles. Faites l'exercice pour les deux bases et comparez les résultats.
+* le salaire moyen, le salaire median, et représentez les dix déciles. Faites l'exercice pour les deux bases et comparez les résultats.
 
-*Le salaire moyen en fonction du job title + diagramme circulaire de la répartitions de ses jobtitles (base 1)
+* Le salaire moyen en fonction du job title + diagramme circulaire de la répartitions de ses jobtitles (base 1)
 
 ++Répondre aux questions (en justifiant):++
 
@@ -41,21 +42,21 @@ Pour les travailleurs de la data aux Etats Unis donnez:
 
 * Le nombre de personne dans son équipe a-t-il une influence sur votre salaire?
 
-*Le nombre d'année d'expérience dans ce type d'emploi a t il une influence sur votre salaire?
+* Le nombre d'année d'expérience dans ce type d'emploi a t il une influence sur votre salaire?
 
 * Il y-a-t-il une inégalité salariale entre les hommes et les femmes dans les emplois liées à la data aux Etats Unis?
 
-*Si cette inégalité salariale existe (suspense), est-elle due au fait que les femmes soient moins bien représentées dans les jobs les mieux payés ou que pour un travail identique elles sont en moyenne moins bien payées?
+* Si cette inégalité salariale existe (suspense), est-elle due au fait que les femmes soient moins bien représentées dans les jobs les mieux payés ou que pour un travail identique elles sont en moyenne moins bien payées?
 
 * Y a t il une différence entre l'évolution salariale liées à l'expérience dans un même emploi entre les hommes et les femmes?
 
 * Résumé en quelques lignes votre plan de carrière pour conquérir le rêve américain.
 
-IV Pour allez plus loin (facultatif)
+# IV Pour allez plus loin (facultatif)
 
 Pour chaque exercice, venir vers moi pour des précisions sur les consignes:
 
-*Représentez une "heat-map" des Etats-Unis en fonction du salaire moyen
+* Représentez une "heat-map" des Etats-Unis en fonction du salaire moyen
 
 * Que pensez vous de mon hypothèse HO: "Les personnes bien payées ont tendance à vouloir rester dans leur entreprise."
 
