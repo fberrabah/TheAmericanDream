@@ -28,15 +28,15 @@ Ce que vous devez réaliser:
 
 * Rechercher les valeurs abbérantes et les traiter (d02_intermediate)
 
-++III Data visualisation (Carreer_visualization.ipynb)++
+                      ++III Data visualisation (Carreer_visualization.ipynb)++
 
-Pour les travailleurs de la data aux Etats Unis donnez:
+  Pour les travailleurs de la data aux Etats Unis donnez:
 
 * le salaire moyen, le salaire median, et représentez les dix déciles. Faites l'exercice pour les deux bases et comparez les résultats.
 
 * Le salaire moyen en fonction du job title + diagramme circulaire de la répartitions de ses jobtitles (base 1)
 
-++Répondre aux questions (en justifiant):++
+                     ++Répondre aux questions (en justifiant):++
 
 * Est-il préférable de travailler pour une seule ou plusieurs compagnies?
 
@@ -52,7 +52,7 @@ Pour les travailleurs de la data aux Etats Unis donnez:
 
 * Résumé en quelques lignes votre plan de carrière pour conquérir le rêve américain.
 
-# IV Pour allez plus loin (facultatif)
+# Pour allez plus loin (facultatif)
 
 Pour chaque exercice, venir vers moi pour des précisions sur les consignes:
 
