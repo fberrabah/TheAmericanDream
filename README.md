@@ -6,15 +6,15 @@ Cela ne fait qu’un mois que vous faites de la data-science mais, ambitieux, vo
 
 Ce que vous devez réaliser:
 
-++I Mise en place de l'environnement de code dans les respects des bonnes pratiques.++
+                       ++I Mise en place de l'environnement de code dans les respects des bonnes pratiques.++
 
-*Créer un repository git et le cloner en local
+* Créer un repository git et le cloner en local
 
 * créer votre structure de projet à partir de la proposition de template
 
 * Créer votre environnement virtuel
   
-++II Data cleaning++
+                       ++II Data cleaning++
 
 * Télécharger et importez vos données dans un moteur de base de données (au choix) (d01_data)
 
