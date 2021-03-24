@@ -1,5 +1,17 @@
 # [Exercice] Le rêve américain
 
+The original data is in the 'data/01_raw' folder
+
+In the notebook folder, there are two files to check : 'Career_visualization.ipynb' 'Data_cleaning.ipynb'
+
+In the 'src/d00_utils' folder, there is one file 'mysql_utils.py' This file defines the functions to connect and to save to MySQL.
+
+In the 'src/d01_data' folder, there is 'load_data.py' This script loads the data from the excel and csv tables into a MySQL database
+
+The 'requirements.txt' lists the libraries installed in the Python3 enviromnment, it was created using 'pip freeze > requirements.txt'
+
+
+
 # Contexte du projet
 
 Cela ne fait qu’un mois que vous faites de la data-science mais, ambitieux, vous avez déjà les yeux tournés vers l’avenir. C’est de l’Amérique dont vous rêvez. Cependant, vous savez que le rêve américain n’est plus aussi facilement accessible qu’avant, il va vous falloir un plan! Vous avez à votre disposition deux jeux de données, à vous de construire votre plan de carrière.
